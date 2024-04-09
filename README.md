@@ -22,7 +22,7 @@ To allow debugging inside VSCode you will also require a GDB [extension](https:/
 Clone the PC project and the related sub modules:
 
 ```
-git clone  https://github.com/lvgl/lv_sim_vscode_sdl
+git clone  https://github.com/jeancode/lvgl_raspberry
 git submodule update --init --recursive
 
 ```
